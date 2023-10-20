@@ -6,7 +6,7 @@ copyright: Copyright © 2023 Red Hat, Inc.
 docs_dir: docs
 # strict: true
 
-theme: 
+theme:
   name: readthedocs
   features:
     - content.code.copy
@@ -41,4 +41,3 @@ nav:
       - rules/R115_file_deletion.md
       - rules/R116_insecure_file_permission.md
       - rules/R301_non_fqcn_use.md
-
